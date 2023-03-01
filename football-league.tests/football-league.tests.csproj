@@ -16,4 +16,8 @@
     <PackageReference Include="coverlet.collector" Version="3.1.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\football-league.core\football-league.core.csproj" />
+  </ItemGroup>
+
 </Project>
